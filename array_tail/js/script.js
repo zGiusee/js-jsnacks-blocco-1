@@ -19,4 +19,7 @@ for(let i = 0; i<elementi; i++){
 // ESEGUO UN CONTROLLO PER VERIFICARE SE TUTTO SIA STATO ESEGUITO CORRETTAMENTE
 console.log(array);
 
+// VISUALIZZO SOLO GLI ULTIMI 5 VALORI DELL'ARRAY
+console.log(array.slice(-5))
+
 
