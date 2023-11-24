@@ -39,8 +39,8 @@ Tutti i frutti
 
 1. - Creo il frigo (array) che contenga tutti i frutti;
 2. - E aggiungo la pesca che si trova in questo caso sul tavolo;
-    3a - ? Nel frigo c'è il cocomero;
-    3b - Stampo "Trovato! Devo solo preparare il cocktail.";
+   - 3a - ? Nel frigo c'è il cocomero;
+   - 3b - Stampo "Trovato! Devo solo preparare il cocktail.";
 4. - : Stampo "Oh no, devo uscire a comprare il cocomero!";
 
 La coda dell'Array
