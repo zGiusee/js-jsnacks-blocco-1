@@ -37,14 +37,14 @@ Aggiungi elementi all’array che ha meno elementi fino a quando ne avrà tanti 
 
 Tutti i frutti
 
-1 - Creo il frigo (array) che contenga tutti i frutti;
-2 - E aggiungo la pesca che si trova in questo caso sul tavolo;
+1. - Creo il frigo (array) che contenga tutti i frutti;
+2. - E aggiungo la pesca che si trova in questo caso sul tavolo;
     3a - ? Nel frigo c'è il cocomero;
     3b - Stampo "Trovato! Devo solo preparare il cocktail.";
-4 - : Stampo "Oh no, devo uscire a comprare il cocomero!";
+4. - : Stampo "Oh no, devo uscire a comprare il cocomero!";
 
 La coda dell'Array
 
-1 - Creo un prompt che chieda all'utente la quantità di elementi inserire nel array;
-2 - Poi creo un algoritmo che mi generi numeri casuali da 1 a 100 tanti quanti gli elementi da inserire nell array;
-3 - Sfrutto le proprietà che mi permettano di stampare gli ultimi 5 risultati;
+1. - Creo un prompt che chieda all'utente la quantità di elementi inserire nel array;
+2. - Poi creo un algoritmo che mi generi numeri casuali da 1 a 100 tanti quanti gli elementi da inserire nell array;
+3. - Sfrutto le proprietà che mi permettano di stampare gli ultimi 5 risultati;
