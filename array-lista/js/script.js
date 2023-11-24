@@ -1,4 +1,4 @@
-// ESERCIZIO TUTTI I FRUTTI
+// ESERCIZIO "TUTTI I FRUTTI"
 
 // CREO L'ARRAY CHE CONTIENE I FRUTTI
 let frigo = ["mela","pera","ciliegia","arancia","mandarino","cocomero","limone","fragola"];
@@ -8,6 +8,9 @@ console.log(frigo);
 
 let pesca = "pesca";
 frigo.push(pesca)
+
+// CONTROLLO SE LA PESCA è STATA AGGIUNTA CORRETTAMENTE
+console.log(frigo);
 
 // CREO LA FLAG
 let check = false;
@@ -29,6 +32,3 @@ if(check){
 else{
     console.log("Oh no, devo uscire a comprare il cocomero!")
 }
-
-// VERIFICO SE è STATO EFFETTUATO TUTTO CORRETTAMENTE
-console.log(frigo);
