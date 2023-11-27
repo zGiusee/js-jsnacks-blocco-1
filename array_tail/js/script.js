@@ -14,14 +14,13 @@ for(let i = 0; i<elementi; i++){
 
     // INVIO IL RISULTATO DELLA VARIABILE DENTRO L'ARRAY
     array.push(rng);
-
 }
 
 // BONUS CHIEDO ALL'UTENTE QUANTI VALORI DELL'ARRAY VORRA STAMPARE SULLA CONSOLE
 let stampare = parseInt(prompt("Quanti elementi vorresti stampare?"));
 
 // UTILIZZO SLICE PER DECIDERE QUANTI ELEMENTI STAMPARE
-let elementi_stampati = array.slice(0,stampare);
+let elementi_stampati = array.slice(-stampare);
 
 // ESEGUO UN CONTROLLO PER VERIFICARE SE TUTTO SIA STATO ESEGUITO CORRETTAMENTE
 console.log(elementi_stampati);
